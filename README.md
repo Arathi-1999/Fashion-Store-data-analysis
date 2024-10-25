@@ -9,4 +9,5 @@ Fashion Store wants to create an annual sales report for 2023. So that, this sto
 3. Adult age group (30-49 yrs)is max contributing (~50)
 
 4. Amazon, Flipkart and Myntra channels are max contributing(~80)
+   
  
